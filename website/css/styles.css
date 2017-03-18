@@ -3,7 +3,7 @@ body {
 	color: #fff;
 	background:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),url('../jumbo.jpg');
 	/*background-color: black; #F1DB0A; e3ad4e eee694#61122f;*/
-	font-family: 'Oxygen', cursive;
+	font-family: 'Helvetica', cursive;
 }
 
 /** HEADER **/
